@@ -1,0 +1,10 @@
+C:\Users\labstudent\source\repos\pingpong\pingpong\bin\Debug\pingpong.exe.config
+C:\Users\labstudent\source\repos\pingpong\pingpong\bin\Debug\pingpong.exe
+C:\Users\labstudent\source\repos\pingpong\pingpong\bin\Debug\pingpong.pdb
+C:\Users\labstudent\source\repos\pingpong\pingpong\obj\Debug\pingpong.csproj.AssemblyReference.cache
+C:\Users\labstudent\source\repos\pingpong\pingpong\obj\Debug\pingpong.Form1.resources
+C:\Users\labstudent\source\repos\pingpong\pingpong\obj\Debug\pingpong.Properties.Resources.resources
+C:\Users\labstudent\source\repos\pingpong\pingpong\obj\Debug\pingpong.csproj.GenerateResource.cache
+C:\Users\labstudent\source\repos\pingpong\pingpong\obj\Debug\pingpong.csproj.CoreCompileInputs.cache
+C:\Users\labstudent\source\repos\pingpong\pingpong\obj\Debug\pingpong.exe
+C:\Users\labstudent\source\repos\pingpong\pingpong\obj\Debug\pingpong.pdb
